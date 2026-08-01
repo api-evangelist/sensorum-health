@@ -1,0 +1,18 @@
+# Sensorum Health
+
+> Sensorum Health provides home-based, fully passive sensor technology and integrated clinical services that monitor older adults with chronic conditions 24/7 — with no wearables, smartphones, or WiFi required — to identify and triage the earliest signs of health decline and prevent avoidable hospital admissions. Backed by GV (Google Ventures). No public API or developer program is currently published.
+
+## About
+- [Sensorum Health](https://www.sensorum.ai): Home-based passive remote patient monitoring and clinical triage for older adults with chronic conditions.
+- [About Us](https://www.sensorum.ai/about): Company mission and team.
+- [For Providers / Partners](https://www.sensorum.ai/for-providers): Clinical and partner offering.
+- [Latest Updates](https://www.sensorum.ai/latest-updates): Company news and updates.
+- [Contact](https://www.sensorum.ai/contact): Get in touch.
+
+## Legal
+- [Privacy Policy](https://www.sensorum.ai/privacy-policy)
+- [Terms of Use](https://www.sensorum.ai/terms-of-use)
+
+## Notes
+- No public API, OpenAPI/AsyncAPI specification, SDK, MCP server, or developer documentation was found as of 2026-07-21.
+- This profile is maintained by the API Evangelist network as a company/provider record.

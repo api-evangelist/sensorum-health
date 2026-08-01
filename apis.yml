@@ -1,8 +1,24 @@
 aid: sensorum-health
 name: Sensorum Health
-description: 'Sensorum Health is a company surfaced as a portfolio company of gv and added to the API
-  Evangelist network as a stub for enrichment. Sector: life-sciences. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: 'Sensorum Health is a healthcare technology company that provides home-based, fully passive
+  sensor technology and integrated clinical services to identify and triage the earliest signs of health
+  decline in older adults living with chronic conditions. The platform monitors patients 24/7 in their
+  own homes without requiring wearables, smartphones, or WiFi, then coordinates clinical interventions
+  when concerning health patterns emerge — with the goal of preventing avoidable hospital admissions.
+  Backed by GV (Google Ventures). Added to the API Evangelist network as a company/provider record; no
+  public API, specification, or developer program has been published as of this profile.'
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/647de98889842cddfd7e0812/648286796590cb2cc59680af_1200x630-Open-Graph-Meta-Image-Sensorum.png
 url: https://raw.githubusercontent.com/api-evangelist/sensorum-health/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,10 +28,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
 - Life Sciences
+- Health
+- Remote Patient Monitoring
+- Digital Health
+- Elderly Care
+- Sensors
+- Chronic Care
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +47,22 @@ maintainers:
 common:
 - type: Website
   url: https://www.sensorum.ai
+- type: About
+  url: https://www.sensorum.ai/about
+- type: Support
+  url: https://www.sensorum.ai/contact
+- type: Blog
+  url: https://www.sensorum.ai/latest-updates
+- type: PrivacyPolicy
+  url: https://www.sensorum.ai/privacy-policy
+- type: TermsOfService
+  url: https://www.sensorum.ai/terms-of-use
+- type: DomainSecurity
+  url: security/sensorum-health-domain-security.yml
+- type: LLMsTxt
+  url: llms/sensorum-health-llms.txt
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 2
+  pass: local-v1
