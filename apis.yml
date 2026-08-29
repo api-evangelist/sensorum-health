@@ -7,6 +7,17 @@ description: 'Sensorum Health is a healthcare technology company that provides h
   when concerning health patterns emerge — with the goal of preventing avoidable hospital admissions.
   Backed by GV (Google Ventures). Added to the API Evangelist network as a company/provider record; no
   public API, specification, or developer program has been published as of this profile.'
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
